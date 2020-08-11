@@ -1,0 +1,166 @@
+{
+  "basics": {
+    "label": "Software Engineer/Architect",
+    "website": "http://vikaschouhan.com",
+    "phone": "+91-9611663497",
+    "email": "presentisgood@gmail.com",
+    "other": [],
+    "name": "Vikas Chouhan",
+    "summary": "I have ~12+ years of experience in professional software development across various domains such as low level embedded software, application level infrastructure tools development and recently data analysis and applied machine learning. I graduated with a B.E. degree in Electrical Engineering in 2009 and currently working at Nurithm Labs Pvt Ltd as engineering cofounder for last 2+ years.",
+    "picture": "",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "vikaschouhan",
+        "url": "https://github.com/vikaschouhan"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "vikas-chouhan-4a36829",
+        "url": "https://www.linkedin.com/in/vikas-chouhan-4a36829"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Nurithm Labs Pvt Ltd",
+      "website": "https://nurithmlabs.tech",
+      "position": "Engineering Cofounder",
+      "startDate": "2018-04",
+      "summary": "<i>As an engineering cofounder, I was responsible for driving the engineering side of the business.That included product development, research, testing and deployment as well as mentoring new hires such as interns etc.</i>",
+      "highlights": [
+        "Research and development activities for training a neural network model for detecting 20 common skin disease conditions.",
+        "Experimenting with various preprocessing and postprocessing schemes for arriving at an optimized training/inference pipeline.",
+        "Reading research papers and experimenting with prototype implementations (openmax, SVM based, DOC, Log softmax, Spherical softmax) for out of distribution (open set) recognition.",
+        "ML model(s) cloud deployment.",
+        "Contributing (technical writing, results generation and analysis etc) to various research papers which we worked in collaboration with our partner doctors.",
+        "Scaling the NN model from 20 disease classes to 40 classes and eventually 55 classes at the end of 2019."
+      ]
+    },
+    {
+      "company": "Arm Embedded Technologies Pvt Ltd",
+      "website": "https://www.arm.com/",
+      "position": "Staff Engineer",
+      "startDate": "2017-05",
+      "endDate": "2018-03",
+      "summary": "<i>I was responsible for handling technical queries and issues from ARM Licensee partners helping them to certify their chips as ARM compliant.</i>",
+      "highlights": [
+          "Working as a bridge between ARM partners and internal development teams facing customer issues and helping to resolve them."
+      ]
+    },
+    {
+      "company": "NXP India Pvt Ltd (Formerly Freescale Semiconductor India Pvt Ltd)",
+      "website": "https://www.nxp.com/",
+      "position": "Senior Design Engineer",
+      "startDate": "2011-07",
+      "endDate": "2017-04",
+      "summary": "<i>I was part of Digital Networking Group's post silicon validation team taking part ownership of multicore CPUS and cache subsystem across various SOCs.</i>",
+      "highlights": [
+        "Microprocessor core & L2/L1 cache validation for various DN SOCs (P4080, P50xx, P20x0, BSC913x, C290, T4240, T1040 etc).",
+        "Test development for targeting cache coherency & memory consistency issues on various multi-core SOCs.",
+        "Test development for validating shared resources (execution units / L1 d-cache etc) inside an SMT (Symmetric Multi Threaded) microprocessor.",
+        "Multi-core bare-metal validation test framework development, enabling us to write & run complicated powerful assembly tests at a much higher abstraction level (in Python)."
+      ]
+    },
+    {
+      "company": "NXP India Pvt Ltd (Formerly Freescale Semiconductor India Pvt Ltd)",
+      "website": "https://www.nxp.com/",
+      "position": "Design Engineer",
+      "startDate": "2008-07",
+      "endDate": "2011-06",
+      "summary": "<i>I was part of Digital Networking Group's Silicon Bringup Team working primariy as tools and infrastructure developer.</i>",
+      "highlights": [
+        "Development and maintainance of various infrastructure tools, doing enhancements, resolving internal issues etc.",
+        "Porting primary validation tool from SunOS to Linux.",
+        "Bare metal verification test development."
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Patent",
+      "publisher": "USPTO",
+      "releaseDate": "2014-02-03",
+      "website": "https://patents.google.com/patent/US20150221396",
+      "summary": "Method of testing coherency of data storage in multi-processor shared memory system"
+    },
+    {
+      "name": "Publication",
+      "publisher": "USPTO",
+      "releaseDate": "2014-04-27",
+      "website": "https://patents.google.com/patent/US20150309847A1",
+      "summary": "Testing operation of multi-threaded processor having shared resources"
+    },
+    {
+      "name": "Publication",
+      "publisher": "IP.COM",
+      "releaseDate": "2015-04-03",
+      "website": "https://priorart.ip.com/IPCOM/000241210",
+      "summary": "Method for testing shared caches/TLB Intervention"
+    },
+    {
+      "name": "Publication",
+      "publisher": "IP.COM",
+      "releaseDate": "2014-07-31",
+      "website": "https://priorart.ip.com/IPCOM/000238081",
+      "summary": "Automated Electrical Validation of Microprocessor and Shared Memory Subsystem"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Roorkee",
+      "gpa": "7.5",
+      "studyType": "B.E.",
+      "area": "Electrical Engineering",
+      "courses": [
+        "Electric Machines",
+        "Microprocessors/Embedded systems",
+        "Digital Signal and Image Processing",
+        "Data structures"
+      ],
+      "startDate": "2004-06",
+      "endDate": "2008-06"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "advanced",
+      "keywords": [
+        "Python",
+        "C",
+        "Assembly (PowerPC and AArch64)",
+        "Bash",
+        "Perl"
+      ]
+    },
+    {
+      "name": "Software platforms and libraries",
+      "level": "advanced",
+      "keywords": [
+        "Tensorflow (1.x & 2.x)",
+        "Pandas",
+        "Scikit-learn",
+        "Numpy",
+        "Git"
+      ]
+    },
+    {
+      "name": "Hardware Architecture",
+      "level": "advanced",
+      "keywords": [
+        "PowerPC",
+        "ARM64",
+        "Multicore CPUS"
+      ]
+    },
+    {
+      "name": "Other tools and platforms",
+      "level": "intermediate",
+      "keywords": [
+        "Docker",
+        "AWS"
+      ]
+    }
+  ]
+}
