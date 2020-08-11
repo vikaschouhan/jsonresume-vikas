@@ -68,9 +68,9 @@
       "position": "Design Engineer",
       "startDate": "2008-07",
       "endDate": "2011-06",
-      "summary": "<i>I was part of Digital Networking Group's Silicon Bringup Team working primariy as tools and infrastructure developer.</i>",
+      "summary": "<i>I was part of Digital Networking Group's Silicon Bringup Team working primarily as tools and infrastructure developer.</i>",
       "highlights": [
-        "Development and maintainance of various infrastructure tools, doing enhancements, resolving internal issues etc.",
+        "Development and maintenance of various infrastructure tools, doing enhancements, resolving internal issues etc.",
         "Porting primary validation tool from SunOS to Linux.",
         "Simics integration for dynamic expects generation.",
         "Bare metal verification test development."
