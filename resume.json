@@ -6,7 +6,7 @@
     "email": "presentisgood@gmail.com",
     "other": [],
     "name": "Vikas Chouhan",
-    "summary": "I have ~12+ years of experience in professional software development across various domains such as low level embedded software, application level infrastructure tools development and recently data analysis and applied machine learning. I graduated with a B.E. degree in Electrical Engineering in 2009 and currently working at Nurithm Labs Pvt Ltd as engineering cofounder for last 2+ years.",
+    "summary": "I have ~12+ years of experience in professional software development across various domains such as low level embedded software, application level infrastructure tools development and recently data analysis and applied machine learning. I graduated with a B.E. degree in Electrical Engineering in 2009 and currently working at Nurithm Labs Pvt Ltd as an engineering cofounder for last 2+ years.",
     "picture": "",
     "profiles": [
       {
@@ -27,14 +27,14 @@
       "website": "https://nurithmlabs.tech",
       "position": "Engineering Cofounder",
       "startDate": "2018-04",
-      "summary": "<i>As an engineering cofounder, I was responsible for driving the engineering side of the business.That included product development, research, testing and deployment as well as mentoring new hires such as interns etc.</i>",
+      "summary": "<i>As an engineering cofounder, I am responsible for driving the engineering side of the business.That includes product development, research, testing and deployment as well as mentoring new hires such as interns etc.</i>",
       "highlights": [
-        "Research and development activities for training a neural network model for detecting 20 common skin disease conditions.",
+        "Research and development activities for developing and training a suitable neural network architecture for detecting 20 common skin disease conditions.",
         "Experimenting with various preprocessing and postprocessing schemes for arriving at an optimized training/inference pipeline.",
-        "Reading research papers and experimenting with prototype implementations (openmax, SVM based, DOC, Log softmax, Spherical softmax) for out of distribution (open set) recognition.",
+        "Reading research papers and converting them to prototype implementations (openmax, SVM based, DOC, Log softmax, Spherical softmax) for out of distribution (open set) recognition.",
         "ML model(s) cloud deployment.",
-        "Contributing (technical writing, results generation and analysis etc) to various research papers which we worked in collaboration with our partner doctors.",
-        "Scaling the NN model from 20 disease classes to 40 classes and eventually 55 classes at the end of 2019."
+        "Contributing (technical writing, results generation and analysis etc) to various journals which we worked in collaboration with our partner doctors.",
+        "Scaling the NN model from 20 classes to 40 classes and eventually 55 classes at the end of 2019."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "position": "Staff Engineer",
       "startDate": "2017-05",
       "endDate": "2018-03",
-      "summary": "<i>I was responsible for handling technical queries and issues from ARM Licensee partners helping them to certify their chips as ARM compliant.</i>",
+      "summary": "<i>I was responsible for handling technical queries and issues from ARM Licensee partners in process of getting their cores ARM compliant.</i>",
       "highlights": [
-          "Working as a bridge between ARM partners and internal development teams facing customer issues and helping to resolve them."
+          "Working as a bridge between ARM partners and internal development teams, facing customer issues and helping to resolve them."
       ]
     },
     {
@@ -54,12 +54,12 @@
       "position": "Senior Design Engineer",
       "startDate": "2011-07",
       "endDate": "2017-04",
-      "summary": "<i>I was part of Digital Networking Group's post silicon validation team taking part ownership of multicore CPUS and cache subsystem across various SOCs.</i>",
+      "summary": "<i>I was in Digital Networking Group's post silicon validation team taking part ownership of multicore CPUS & cache subsystem across various SOCs.</i>",
       "highlights": [
         "Microprocessor core & L2/L1 cache validation for various DN SOCs (P4080, P50xx, P20x0, BSC913x, C290, T4240, T1040 etc).",
         "Test development for targeting cache coherency & memory consistency issues on various multi-core SOCs.",
-        "Test development for validating shared resources (execution units / L1 d-cache etc) inside an SMT (Symmetric Multi Threaded) microprocessor.",
-        "Multi-core bare-metal validation test framework development, enabling us to write & run complicated powerful assembly tests at a much higher abstraction level (in Python)."
+        "Test development for validating shared resources (execution units/L1 d-cache etc) inside an Symmetric Multi Threaded microprocessor.",
+        "Multi-core bare-metal validation test framework development for ARMv8 based SOCs, enabling us to write & run complicated powerful assembly tests at a much higher abstraction level (in Python)."
       ]
     },
     {
@@ -72,6 +72,7 @@
       "highlights": [
         "Development and maintainance of various infrastructure tools, doing enhancements, resolving internal issues etc.",
         "Porting primary validation tool from SunOS to Linux.",
+        "Simics integration for dynamic expects generation.",
         "Bare metal verification test development."
       ]
     }
@@ -129,9 +130,16 @@
       "keywords": [
         "Python",
         "C",
-        "Assembly (PowerPC and AArch64)",
+        "Assembly (PowerPC and AArch64)"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "intermediate",
+      "keywords": [
         "Bash",
-        "Perl"
+        "Perl",
+        "C++"
       ]
     },
     {
