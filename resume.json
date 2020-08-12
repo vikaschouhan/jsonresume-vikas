@@ -130,16 +130,10 @@
       "keywords": [
         "Python",
         "C",
-        "Assembly (PowerPC and AArch64)"
-      ]
-    },
-    {
-      "name": "Programming",
-      "level": "intermediate",
-      "keywords": [
-        "Bash",
+        "C++",
+        "Assembly (PowerPC and AArch64)",
         "Perl",
-        "C++"
+        "Bash"
       ]
     },
     {
@@ -154,12 +148,13 @@
       ]
     },
     {
-      "name": "Hardware Architecture",
+      "name": "Hardware Architecture(s)",
       "level": "advanced",
       "keywords": [
         "PowerPC",
         "ARM64",
-        "Multicore CPUS"
+        "Multicore CPUS",
+        "Functional verification"
       ]
     },
     {
