@@ -61,7 +61,7 @@
         "Test development (in C & PowerPC assembly) for targeting cache coherency & memory consistency in multicore microprocessors.",
         "Test development (in C & PowerPC assembly) for verifying shared resources such as fpu, simd etc. inside an Symmetric Multi Threaded microprocessor.",
         "Bare-metal test framework development (in C/C++, ARMv8 assembly and Python) to develop & run powerful pseudo-random algorithmic assembly tests.",
-        "Small projects involving LTE and IOT software stacks."
+        "Familarity with LTE, IOT and video decoding standards (H264, H265 etc.)."
       ]
     },
     {
