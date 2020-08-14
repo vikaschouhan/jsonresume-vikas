@@ -4,7 +4,7 @@ import os
 import sys
 
 def rm_file(f):
-    if os.path.isfile(f):
+    if os.path.isfile(f) or os.path.islink(f):
         os.remove(f)
     # endif
 # enddef

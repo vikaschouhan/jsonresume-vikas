@@ -1,1 +1,1 @@
-python3 generate_softlinks.py --tdir themes/jsonresume-theme-stackoverflow-ibic --json resumes/resume_secondary.json
+python3 generate_softlinks.py --tdir themes/jsonresume-theme-spartan --json resumes/resume_compact.json
