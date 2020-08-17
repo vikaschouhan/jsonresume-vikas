@@ -37,9 +37,11 @@
       "summary": "<i>Driving engineering R&D. Product development, testing and deployment. Mentoring engineering interns.</i>",
       "highlights": [
         "Developing and deploying AI system for detecting 20 common skin disease conditions and scaling up to ~50 classes.",
+        "Web Scraping/Data Mining as part of data collection and cleaning process.",
         "Reading research papers and converting cutting edge algorithms to prototype implementations.",
         "Driving experiments with visualization algorithms, loss functions, preprocessing and post processing schemes.",
-        "Contributing (technical writing, results generation and analysis etc) to various journals which we worked on in collaboration with our partner doctors."
+        "Contributing (technical writing, results generation and analysis etc) to various journals which we worked on in collaboration with our partner doctors.",
+        "Maintaining cloud infrastructure for online deployment of services."
       ]
     },
     {
@@ -149,7 +151,8 @@
       "level": "intermediate",
       "keywords": [
         "Docker",
-        "AWS"
+        "AWS",
+        "HTML/Javascript"
       ]
     }
   ]
