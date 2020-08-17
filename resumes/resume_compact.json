@@ -1,0 +1,152 @@
+{
+  "basics": {
+    "label": "Software Engineer/Architect",
+    "website": "http://vikaschouhan.com",
+    "phone": "+91-9611663497",
+    "email": "presentisgood@gmail.com",
+    "other": [],
+    "name": "Vikas Chouhan",
+    "summary": "12+ years of experience in professional software development spanning across embedded systems, backends tooling and data analysis/applied machine learning.",
+    "picture": "",
+    "location": {
+      "address": "Bangalore",
+      "postalCode": "560035",
+      "city": "Bangalore",
+      "countryCode": "IN",
+      "region": "Karnataka"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "vikaschouhan",
+        "url": "https://github.com/vikaschouhan"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "vikas-chouhan-4a36829",
+        "url": "https://www.linkedin.com/in/vikas-chouhan-4a36829"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Nurithm Labs Pvt Ltd",
+      "website": "https://nurithmlabs.tech",
+      "position": "Engineering Cofounder",
+      "startDate": "2018-04",
+      "summary": "<i>Driving engineering R&D. Product development, testing and deployment. Mentoring engineering interns.</i>",
+      "highlights": [
+        "Developing and deploying AI system for detecting 20 common skin disease conditions and scaling up to ~50 classes.",
+        "Web Scraping/Data Mining as part of data collection and cleaning process.",
+        "Reading research papers and converting cutting edge algorithms to prototype implementations.",
+        "Driving experiments with visualization algorithms, loss functions, preprocessing and post processing schemes.",
+        "Contributing (technical writing, results generation and analysis etc) to various journals which we worked on in collaboration with our partner doctors.",
+        "Maintaining cloud infrastructure for online deployment of services."
+      ]
+    },
+    {
+      "company": "Arm Embedded Technologies Pvt Ltd",
+      "website": "https://www.arm.com/",
+      "position": "Staff Engineer",
+      "startDate": "2017-05",
+      "endDate": "2018-03",
+      "summary": "<i>Handling technical queries and issues from ARM Licensee partners.</i>",
+      "highlights": [
+          "Working as a bridge between ARM partners and internal development teams, facing customer issues and helping to resolve them."
+      ]
+    },
+    {
+      "company": "NXP India Pvt Ltd (Formerly Freescale Semiconductor India Pvt Ltd)",
+      "website": "https://www.nxp.com/",
+      "position": "Senior Design Engineer",
+      "startDate": "2011-07",
+      "endDate": "2017-04",
+      "summary": "<i>Taking part ownership for post silicon validation of multicore CPUS & cache subsystems.</i>",
+      "highlights": [
+        "Developing algorithmic tests in C & assembly for verifying cache coherency, memory consistency, multi-threaded CPU shared resources etc.",
+        "Developing test generator in C/C++ and Python for developing powerful pseudo-random algorithmic tests for ARMv8 multicore processors.",
+        "Little bit of familarity with LTE, IOT and video decoding standards (H264, H265 etc.) as part of random small projects."
+      ]
+    },
+    {
+      "company": "NXP India Pvt Ltd (Formerly Freescale Semiconductor India Pvt Ltd)",
+      "website": "https://www.nxp.com/",
+      "position": "Design Engineer",
+      "startDate": "2008-07",
+      "endDate": "2011-06",
+      "summary": "<i>Working as backend tools developer.</i>",
+      "highlights": [
+        "Developing and maintaining infrastructure tools, doing enhancements, resolving internal issues etc."
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Patent",
+      "publisher": "USPTO",
+      "releaseDate": "2014-02-03",
+      "website": "https://patents.google.com/patent/US20150221396",
+      "summary": "Method of testing coherency of data storage in multi-processor shared memory system"
+    },
+    {
+      "name": "Publication",
+      "publisher": "USPTO",
+      "releaseDate": "2014-04-27",
+      "website": "https://patents.google.com/patent/US20150309847A1",
+      "summary": "Testing operation of multi-threaded processor having shared resources"
+    },
+    {
+      "name": "Publication",
+      "publisher": "IP.COM",
+      "releaseDate": "2015-04-03",
+      "website": "https://priorart.ip.com/IPCOM/000241210",
+      "summary": "Method for testing shared caches/TLB Intervention"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Roorkee",
+      "gpa": "7.5",
+      "studyType": "B.E.",
+      "area": "Electrical Engineering",
+      "courses": [
+        "Electric Machines",
+        "Microprocessors/Embedded systems",
+        "Digital Signal and Image Processing",
+        "Data structures"
+      ],
+      "startDate": "2004-06",
+      "endDate": "2008-06"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software and Hardware",
+      "level": "advanced",
+      "keywords": [
+        "Python",
+        "C",
+        "C++",
+        "Assembly (PowerPC and AArch64)",
+        "Perl",
+        "Bash",
+        "Tensorflow (1.x & 2.x)",
+        "Pandas",
+        "Scikit-learn",
+        "Numpy",
+        "Git",
+        "Multicore CPUS",
+        "Functional verification"
+      ]
+    },
+    {
+      "name": "Other tools and platforms",
+      "level": "intermediate",
+      "keywords": [
+        "Docker",
+        "AWS",
+        "HTML/Javascript"
+      ]
+    }
+  ]
+}
