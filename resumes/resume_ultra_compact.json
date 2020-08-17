@@ -61,21 +61,11 @@
       "position": "Senior Design Engineer",
       "startDate": "2011-07",
       "endDate": "2017-04",
-      "summary": "<i>Taking part ownership for post silicon validation of multicore CPUS & cache subsystems.</i>",
+      "summary": "<i>Taking part ownership for post silicon validation of multicore CPUS & cache subsystems. Backend tools developer.</i>",
       "highlights": [
         "Developing algorithmic tests in C & assembly for verifying cache coherency, memory consistency, multi-threaded CPU shared resources etc.",
         "Developing test generator in C/C++ and Python for developing powerful pseudo-random algorithmic tests for ARMv8 multicore processors.",
-        "Little bit of familarity with LTE, IOT and video decoding standards (H264, H265 etc.) as part of random small projects."
-      ]
-    },
-    {
-      "company": "NXP India Pvt Ltd (Formerly Freescale Semiconductor India Pvt Ltd)",
-      "website": "https://www.nxp.com/",
-      "position": "Design Engineer",
-      "startDate": "2008-07",
-      "endDate": "2011-06",
-      "summary": "<i>Working as backend tools developer.</i>",
-      "highlights": [
+        "Little bit of familarity with LTE, IOT and video decoding standards (H264, H265 etc.) as part of random small projects.",
         "Developing and maintaining infrastructure tools, doing enhancements, resolving internal issues etc."
       ]
     }
@@ -101,13 +91,6 @@
       "releaseDate": "2015-04-03",
       "website": "https://priorart.ip.com/IPCOM/000241210",
       "summary": "Method for testing shared caches/TLB Intervention"
-    },
-    {
-      "name": "Publication",
-      "publisher": "IP.COM",
-      "releaseDate": "2014-07-31",
-      "website": "https://priorart.ip.com/IPCOM/000238081",
-      "summary": "Automated Electrical Validation of Microprocessor and Shared Memory Subsystem"
     }
   ],
   "education": [
