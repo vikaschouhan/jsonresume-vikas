@@ -64,7 +64,7 @@
       "summary": "<i>Taking part ownership for post silicon validation of multicore CPUS & cache subsystems.</i>",
       "highlights": [
         "Developing algorithmic tests in C & assembly for verifying cache coherency, memory consistency, multi-threaded CPU shared resources, IOMMU etc.",
-        "Developing test generator in C/C++ and Python for developing powerful pseudo-random algorithmic tests for ARMv8 multicore processors.",
+        "Developing test generator in C/C++ and Python for generating powerful pseudo-random algorithmic tests for ARMv8 multicore processors.",
         "Experience with low level hardware debugging (via JTAG, PEX etc.)",
         "Little bit of familarity with LTE, IOT and video decoding standards (H264, H265 etc.) as part of random small projects."
       ]
