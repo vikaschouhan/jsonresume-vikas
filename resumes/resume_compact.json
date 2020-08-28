@@ -6,7 +6,7 @@
     "email": "presentisgood@gmail.com",
     "other": [],
     "name": "Vikas Chouhan",
-    "summary": "12+ years of experience in professional software development spanning across embedded systems, backend tooling and data analysis/applied machine learning.",
+    "summary": "I have ~12 years of experience in professional software development in embedded & AI/ML domain with my AI skills mostly coming from having worked on a healthcare startup in last 2+ years.",
     "picture": "",
     "location": {
       "address": "Bangalore",
@@ -34,14 +34,13 @@
       "website": "https://nurithmlabs.tech",
       "position": "Engineering Cofounder",
       "startDate": "2018-04",
-      "summary": "<i>Driving engineering R&D. Product development, testing and deployment. Mentoring engineering interns.</i>",
+      "summary": "Driving engineering R&D for our healthcare startup.",
       "highlights": [
-        "Developing and deploying AI system for detecting 20 common skin disease conditions and scaling up to ~50 classes.",
-        "Web Scraping/Data Mining as part of data collection and cleaning process.",
-        "Reading research papers and converting cutting edge algorithms to prototype implementations.",
-        "Driving experiments with visualization algorithms, loss functions, preprocessing and post processing schemes.",
-        "Contributing (technical writing, results generation and analysis etc) to various journals which we worked on in collaboration with our partner doctors.",
-        "Maintaining cloud infrastructure for online deployment of services."
+        "Successfully developed and deployed an AI system for detecting 50 skin disease conditions with an overall accuracy of >80%.",
+        "Enhanced our private image dataset with images available from various sources on the web.",
+        "Read & implemented the algorithms in various research papers which were not yet available in standard ML packages.",
+        "Ran lots of experiments with visualization algorithms, loss functions etc to optimize our AI models.",
+        "Contributed to few papers as co-author & submitted in various national & international journals."
       ]
     },
     {
@@ -50,9 +49,9 @@
       "position": "Staff Engineer",
       "startDate": "2017-05",
       "endDate": "2018-03",
-      "summary": "<i>Handling technical queries and issues from ARM Licensee partners.</i>",
+      "summary": "Handling technical queries and issues from ARM Licensee partners.",
       "highlights": [
-          "Working as a bridge between ARM partners and internal development teams, facing customer issues and helping to resolve them."
+          "Worked as a bridge between ARM partner companies and internal teams, resolve their queries and issues."
       ]
     },
     {
@@ -61,12 +60,12 @@
       "position": "Senior Design Engineer",
       "startDate": "2011-07",
       "endDate": "2017-04",
-      "summary": "<i>Taking part ownership for post silicon validation of multicore CPUS & cache subsystems.</i>",
+      "summary": "Software developer and post silicon validation engineer.",
       "highlights": [
-        "Developing algorithmic tests in C & assembly for verifying cache coherency, memory consistency, multi-threaded CPU shared resources, IOMMU etc.",
-        "Developing test generator in C/C++ and Python for generating powerful pseudo-random algorithmic tests for ARMv8 multicore processors.",
-        "Experience with low level hardware debugging (via JTAG, PEX etc.)",
-        "Little bit of familarity with LTE, IOT and video decoding standards (H264, H265 etc.) as part of random small projects."
+        "Developed validation tests in C & assembly for hunting various hardware issues in multicore processors, helping our team to catch serious silicon issues in time.",
+        "Developed & architected a software tool in C/C++ and Python for writing and generating algorithmic tests for multicore ARM processors. This helped us to port our PowerPC based tests to ARM based SOCs.",
+        "Did a lot of low level hardware debugging via JTAG/PEX.",
+        "Worked a little bit on IOT stacks and video decoding standards (H264, H265 etc.) as part of random small projects."
       ]
     },
     {
@@ -75,9 +74,10 @@
       "position": "Design Engineer",
       "startDate": "2008-07",
       "endDate": "2011-06",
-      "summary": "<i>Working as backend tools developer.</i>",
+      "summary": "Working as backend tools developer.",
       "highlights": [
-        "Developing and maintaining infrastructure tools, doing enhancements, resolving internal issues etc."
+        "Worked on enhancing our internal validation tools & fixing bugs and issues.",
+        "Ported them from SunOS to Linux helping our team to move from old legacy Sun systems to newer & cheaper Linux systems."
       ]
     }
   ],
@@ -95,13 +95,6 @@
       "releaseDate": "2014-04-27",
       "website": "https://patents.google.com/patent/US20150309847A1",
       "summary": "Testing operation of multi-threaded processor having shared resources"
-    },
-    {
-      "name": "Publication",
-      "publisher": "IP.COM",
-      "releaseDate": "2015-04-03",
-      "website": "https://priorart.ip.com/IPCOM/000241210",
-      "summary": "Method for testing shared caches/TLB Intervention"
     }
   ],
   "education": [
@@ -126,18 +119,15 @@
       "level": "advanced",
       "keywords": [
         "Python",
-        "C",
-        "C++",
+        "C/C++",
         "Assembly (PowerPC and AArch64)",
-        "Perl",
-        "Bash",
         "Tensorflow (1.x & 2.x)",
         "Pandas",
         "Scikit-learn",
         "Numpy",
         "Git",
         "Multicore CPUS",
-        "Functional verification",
+        "Functional validation",
         "Software design & architecture"
       ]
     },
