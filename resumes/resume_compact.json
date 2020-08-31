@@ -38,7 +38,7 @@
       "highlights": [
         "Successfully developed and deployed an AI system for detecting 50 skin disease conditions with an overall accuracy of >80%.",
         "Enhanced our private image dataset with images available from various sources on the web.",
-        "Read & implemented the algorithms in various research papers which were not yet available in standard ML packages.",
+        "Read & implemented algorithms in various research papers which were not yet available in standard ML packages.",
         "Ran lots of experiments with visualization algorithms, loss functions etc to optimize our AI models.",
         "Contributed to few papers as co-author & submitted in various national & international journals."
       ]
@@ -51,7 +51,7 @@
       "endDate": "2018-03",
       "summary": "Handling technical queries and issues from ARM Licensee partners.",
       "highlights": [
-          "Worked as a bridge between ARM partner companies and internal teams, resolve their queries and issues."
+          "Resolving technical queries and issues for ARM partners on a dedicated basis, increasing team's efficiency in dealing with issue resolution rate."
       ]
     },
     {
@@ -63,8 +63,8 @@
       "summary": "Software developer and post silicon validation engineer.",
       "highlights": [
         "Developed validation tests in C & assembly for hunting various hardware issues in multicore processors, helping our team to catch serious silicon issues in time.",
-        "Developed & architected a software tool in C/C++ and Python for writing and generating algorithmic tests for multicore ARM processors. This helped us to port our PowerPC based tests to ARM based SOCs.",
-        "Did a lot of low level hardware debugging via JTAG/PEX.",
+        "Developed & architected a software tool in C/C++ and Python for writing and generating algorithmic tests for multicore ARM processors. This helped us to port a lot of our PowerPC based tests to ARM based SOCs in a very time constrained window.",
+        "Developed proficiency at low level hardware debugging via JTAG/PEX.",
         "Worked a little bit on IOT stacks and video decoding standards (H264, H265 etc.) as part of random small projects."
       ]
     },
