@@ -33,7 +33,7 @@
       "startDate": "2018-04",
       "summary": "Driving engineering R&D for our healthcare startup.",
       "highlights": [
-        "Successfully developed and deployed an AI system for detecting 50 skin disease conditions with an overall accuracy of >80%. Accessible by our reference app called <strong><a href=\"https://play.google.com/store/apps/details?id=com.nurithmlabs.dermaaid&hl=en_IN\">DermaAid</a></strong>.",
+        "Successfully developed and deployed an AI system for detecting 50 skin disease conditions with an overall accuracy of >80%. Accessible by our reference app <strong><a href=\"https://play.google.com/store/apps/details?id=com.nurithmlabs.dermaaid&hl=en_IN\">DermaAid</a></strong>.",
         "Enhanced our private image dataset with images available from various public sources on the web. This was open sourced as a <i><strong><a href=\"https://github.com/vikaschouhan/derma-images-crawlers\">Github</a></strong></i> project.",
         "Read & implemented algorithms in various research papers which were not yet available in standard ML packages. One algorithm <strong><a href=\"https://arxiv.org/abs/1511.06233\">OpenMax</a></strong> helped to improve our model's open set diagnostic sensitivity by ~10%.",
         "Ran lots of experiments with visualization algorithms, loss functions, augmentations etc to optimize our AI models, improving our model's performance by ~6-8%.",
