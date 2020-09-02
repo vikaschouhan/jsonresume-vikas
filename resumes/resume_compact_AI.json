@@ -9,10 +9,8 @@
     "summary": "I have ~12 years of experience in professional software development in embedded & AI/ML domain with my AI skills mostly coming from having worked on a healthcare startup in last 2+ years.",
     "picture": "",
     "location": {
-      "postalCode": "560035",
       "city": "Bangalore",
-      "countryCode": "IN",
-      "region": "Karnataka"
+      "countryCode": "IN"
     },
     "profiles": [
       {
@@ -36,12 +34,12 @@
       "summary": "Driving engineering R&D for our healthcare startup.",
       "highlights": [
         "Successfully developed and deployed an AI system for detecting 50 skin disease conditions with an overall accuracy of >80%. Accessible by our reference app called <strong><a href=\"https://play.google.com/store/apps/details?id=com.nurithmlabs.dermaaid&hl=en_IN\">DermaAid</a></strong>.",
-        "Enhanced our private image dataset with images available from various public sources on the web. This was open sourced as a <a href=\"https://github.com/vikaschouhan/derma-images-crawlers\">Github</a> project.",
-        "Read & implemented algorithms in various research papers which were not yet available in standard ML packages. One algorithm <a href=\"https://arxiv.org/abs/1511.06233\">OpenMax</a> helped to improve our model's open set diagnostic sensitivity by ~10%.",
+        "Enhanced our private image dataset with images available from various public sources on the web. This was open sourced as a <i><strong><a href=\"https://github.com/vikaschouhan/derma-images-crawlers\">Github</a></strong></i> project.",
+        "Read & implemented algorithms in various research papers which were not yet available in standard ML packages. One algorithm <strong><a href=\"https://arxiv.org/abs/1511.06233\">OpenMax</a></strong> helped to improve our model's open set diagnostic sensitivity by ~10%.",
         "Ran lots of experiments with visualization algorithms, loss functions, augmentations etc to optimize our AI models, improving our model's performance by ~10%.",
         "Contributed to few papers as co-author & submitted in various national & international journals.",
-        "Scored in top-5 in <strong><a href=\"https://challenge2019.isic-archive.com/leaderboard.html\">ISIC-2019</a></strong> Skin Lesion Diagnosis Challenge. The model used was a single Densenet-161 instance with <a href=\"https://isic-challenge-stade.s3.amazonaws.com/a4760b83-1366-4957-88d2-baee36b86a7b/Skin_Lesion_Analysis_towards_Melanoma_Detection_with_Deep_Convolutional_Neural_Network.pdf?AWSAccessKeyId=AKIA2FPBP3II4S6KTWEU&Signature=UanQqAKO3dD4nRrM4JTos3SJKa0%3D&Expires=1599048659\">several optimizations</a> loosely based off our work at Nurithm Labs.",
-        "Winner of <a href=\"http://www.millenniumalliance.in/covid19.aspx\">Millenium Alliance's</a> COVID19 Innovation Grand Challenge and <a href=\"https://gcgh.grandchallenges.org/challenge/grand-challenges-explorations-india\">Grand Challenges Exploration India</a>."
+        "Scored in top-5 in <strong><a href=\"https://challenge2019.isic-archive.com/leaderboard.html\">ISIC-2019</a></strong> Skin Lesion Diagnosis Challenge. The model used was a single Densenet-161 instance with <i><strong><a href=\"https://isic-challenge-stade.s3.amazonaws.com/a4760b83-1366-4957-88d2-baee36b86a7b/Skin_Lesion_Analysis_towards_Melanoma_Detection_with_Deep_Convolutional_Neural_Network.pdf?AWSAccessKeyId=AKIA2FPBP3II4S6KTWEU&Signature=UanQqAKO3dD4nRrM4JTos3SJKa0%3D&Expires=1599048659\">several optimizations</a></strong></i> loosely based off our work at Nurithm Labs.",
+        "Winner of <i><strong><a href=\"http://www.millenniumalliance.in/covid19.aspx\">Millenium Alliance's</a></strong></i> COVID19 Innovation Grand Challenge and <i><strong><a href=\"https://gcgh.grandchallenges.org/challenge/grand-challenges-explorations-india\">Grand Challenges Exploration India</a></strong></i>."
  
       ]
     },
