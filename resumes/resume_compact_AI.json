@@ -142,7 +142,8 @@
         "Software design & architecture",
         "Assembly (PowerPC and AArch64)",
         "Multicore CPUS",
-        "Functional verification"
+        "Functional verification",
+        "Linux"
       ]
     },
     {
@@ -154,7 +155,8 @@
         "HTML/Javascript",
         "Excel",
         "Perl",
-        "Bash"
+        "Bash",
+        "OpenCV"
       ]
     }
   ]
