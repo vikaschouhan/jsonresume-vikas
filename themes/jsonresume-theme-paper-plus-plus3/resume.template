@@ -330,6 +330,39 @@
 						{{/each}}
 					{{/if}}
 
+					{{#if resume.skills.length}}
+						<section class="content">
+							<div class="row">
+								<div class="content-cat">
+									<h3>Skills</h3>
+								</div>
+								<div class="content-text skills-listing">
+									{{#each resume.skills}}
+										<p>
+										<span class="name">
+										{{#if name}}
+											<strong>
+											{{name}}{{#if level}}{{else}}:{{/if}}
+
+											</strong>
+										{{/if}}
+										</span>
+
+										{{#if level}}
+											<span>({{level}}):</span>
+										{{/if}}
+
+											{{#if keywords.length}}
+												{{#commalist keywords}}{{.}}{{/commalist}}
+											{{/if}}
+										</p>
+									{{/each}}
+								</div>
+							</div>
+						</section>
+					{{/if}}
+
+
 
 					{{#if resume.education.length}}
 						{{#each resume.education}}
@@ -519,38 +552,6 @@
 						{{/each}}
 					{{/if}}
 
-
-					{{#if resume.skills.length}}
-						<section class="content">
-							<div class="row">
-								<div class="content-cat">
-									<h3>Skills</h3>
-								</div>
-								<div class="content-text skills-listing">
-									{{#each resume.skills}}
-										<p>
-										<span class="name">
-										{{#if name}}
-											<strong>
-											{{name}}{{#if level}}{{else}}:{{/if}}
-
-											</strong>
-										{{/if}}
-										</span>
-
-										{{#if level}}
-											<span>({{level}}):</span>
-										{{/if}}
-
-											{{#if keywords.length}}
-												{{#commalist keywords}}{{.}}{{/commalist}}
-											{{/if}}
-										</p>
-									{{/each}}
-								</div>
-							</div>
-						</section>
-					{{/if}}
 
 					{{#if resume.interests.length}}
 						<section class="content">
