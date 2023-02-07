@@ -1,12 +1,12 @@
 {
   "basics": {
-    "label": "SW/HW Test Architect",
+    "label": "SW/HW Frameworks Architect",
     "website": "http://vikaschouhan.com",
     "phone": "+91-9611663497",
     "email": "presentisgood@gmail.com",
     "other": [],
     "name": "Vikas Chouhan",
-    "summary": "I am a test architect with ~15 years of experience in post silicon validation, embedded software development and Software QA, developing tests and architecting test frameworks and supporting infrastructure to shorten validation life cycles. I devoted some 2+ years in between to run an AI based healthcare startup which helped me to dive in application side AI/ML.",
+    "summary": "I am a software architect with ~15 years of experience in post silicon validation, embedded software development and Software QA, developing tests and architecting test frameworks and supporting infrastructure to shorten validation life cycles. I devoted some 2+ years in between to run an AI based healthcare startup which helped me to dive in application side AI/ML.",
     "picture": "",
     "location": {
       "city": "Bangalore",
@@ -34,8 +34,8 @@
       "summary": "Software QA Engineer for Intel Pytorch team.",
       "highlights": [
         "QA activities for Intel Pytorch team enabling various training and inference workloads on their dedicated AI accelerator.",
-	"Architecting test (and test frameworks) for scaling test methodologies across huge number and variety of models.",
-	"Automating multiple aspects of test development, launch and debug process."
+	"Developed and architected a unique pytest based test framework for scaling test methodologies across huge number and variety of models with minimal python code & turnaround time.",
+	"Automated multiple aspects of test development, launch and debug process."
       ]
     },
     {
