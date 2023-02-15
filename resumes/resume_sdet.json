@@ -1,0 +1,166 @@
+{
+  "basics": {
+    "label": "SDET Architect",
+    "website": "http://vikaschouhan.com",
+    "phone": "+91-9611663497",
+    "email": "presentisgood@gmail.com",
+    "other": [],
+    "name": "Vikas Chouhan",
+    "summary": "I am a test architect with ~15 years of experience in post silicon validation, developing test automation frameworks and supporting infrastructure to shorten validation life cycles. I devoted some 2+ years in between to run an AI based healthcare startup which helped me to dive in application side AI/ML.",
+    "picture": "",
+    "location": {
+      "city": "Bangalore",
+      "countryCode": "IN"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "vikaschouhan",
+        "url": "https://github.com/vikaschouhan"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "vikas-chouhan-4a36829",
+        "url": "https://www.linkedin.com/in/vikas-chouhan-4a36829"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Intel Technology India Pvt Ltd",
+      "website": "https://www.intel.com",
+      "position": "AI Software Solutions Engineer",
+      "startDate": "2020-11",
+      "summary": "Software QA Engineer for Intel Pytorch team.",
+      "highlights": [
+        "QA activities for Intel Pytorch team enabling various training and inference workloads on their dedicated AI accelerator.",
+	"Developed and architected a unique pytest based test framework for scaling test methodologies across huge number and variety of models.",
+	"Automated multiple aspects of test development, launch and debug process."
+      ]
+    },
+    {
+      "company": "Nurithm Labs Pvt Ltd",
+      "website": "https://nurithmlabs.tech",
+      "position": "Engineering Cofounder",
+      "startDate": "2018-04",
+      "endDate": "2020-10",
+      "summary": "Driving engineering R&D for our healthcare startup.",
+      "highlights": [
+        "Successfully developed and deployed an AI system for detecting 50 skin disease conditions with an overall accuracy of >80%.",
+        "Enhanced our private image dataset with images available from various public sources on the web. This was open sourced as a Github project.",
+        "Read & implemented algorithms in various research papers which were not yet available in standard ML packages. One algorithm called OpenMax helped to improve our model's open set diagnostic sensitivity by ~10%.",
+        "Ran lots of experiments with visualization algorithms, loss functions, augmentations etc to optimize our AI models, improving our model's performance by ~6-8%.",
+        "Most of the work has been done remotely, collaborating over skype and zoom calls."
+      ]
+    },
+    {
+      "company": "Arm Embedded Technologies Pvt Ltd",
+      "website": "https://www.arm.com/",
+      "position": "Staff Engineer",
+      "startDate": "2017-05",
+      "endDate": "2018-03",
+      "summary": "Handling technical queries and issues from ARM Licensee partners.",
+      "highlights": [
+          "Resolving technical queries and issues for ARM partners on a dedicated basis, increasing team's efficiency in dealing with issue resolution rate.",
+          "Developed a very solid understanding of Armv8-A architecture profile in this process."
+      ]
+    },
+    {
+      "company": "NXP India Pvt Ltd (Formerly Freescale Semiconductor India Pvt Ltd)",
+      "website": "https://www.nxp.com/",
+      "position": "Senior Design Engineer",
+      "startDate": "2011-07",
+      "endDate": "2017-04",
+      "summary": "Software developer and post silicon validation engineer.",
+      "highlights": [
+        "Developed validation tests in C & assembly for hunting various hardware issues in multicore processors, helping our team to catch serious silicon issues in time.",
+        "Developed & architected a software automation tool in C/C++ and Python for writing and generating algorithmic tests for multicore ARM processors. This helped us to port a lot of our PowerPC based tests to ARM based SOCs in a very time constrained window.",
+        "Developed validation tests to target cache coherency, memory consistency, multiple threads and shared execution units (SMT processors) along with few other IPs like interconnect, IOMMU etc.",
+        "Developed proficiency at low level hardware debugging via JTAG/PEX, bare-metal OS/kernel development/deployment & software modelling of CPU/SOC components.",
+        "Worked on embedded micro kernels & board support packages."
+      ]
+    },
+    {
+      "company": "NXP India Pvt Ltd (Formerly Freescale Semiconductor India Pvt Ltd)",
+      "website": "https://www.nxp.com/",
+      "position": "Design Engineer",
+      "startDate": "2008-07",
+      "endDate": "2011-06",
+      "summary": "Working as backend tools developer.",
+      "highlights": [
+        "Worked on enhancing our internal validation tools & fixing bugs and issues.",
+        "Ported them from SunOS to Linux helping our team move from old legacy Sun systems to newer & cheaper Linux systems."
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Patent",
+      "publisher": "USPTO",
+      "releaseDate": "2014-02-03",
+      "website": "https://patents.google.com/patent/US20150221396",
+      "summary": "Method of testing coherency of data storage in multi-processor shared memory system."
+    },
+    {
+      "name": "Publication",
+      "publisher": "USPTO",
+      "releaseDate": "2014-04-27",
+      "website": "https://patents.google.com/patent/US20150309847A1",
+      "summary": "Testing operation of multi-threaded processor having shared resources."
+    },
+    {
+      "name": "Publication",
+      "publisher": "IP.COM",
+      "releaseDate": "2014-07-31",
+      "website": "https://priorart.ip.com/IPCOM/000238081",
+      "summary": "Automated Electrical Validation of Microprocessor and Shared Memory Subsystem."
+    },
+    {
+      "name": "Publication",
+      "publisher": "IP.COM",
+      "releaseDate": "2015-04-03",
+      "website": "https://priorart.ip.com/IPCOM/000241210",
+      "summary": "Method for testing shared caches/TLB Intervention."
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Roorkee",
+      "gpa": "7.5",
+      "studyType": "B.E.",
+      "area": "Electrical Engineering",
+      "courses": [
+        "Electric Machines",
+        "Microprocessors/Embedded systems",
+        "Digital Signal and Image Processing",
+        "Data structures"
+      ],
+      "startDate": "2004-06",
+      "endDate": "2008-06"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software and Hardware",
+      "level": "advanced",
+      "keywords": [
+        "Python",
+        "C/C++",
+        "Perl",
+        "Bash scripting",
+	"Automation",
+	"Docker",
+	"Object oriented design",
+        "Assembly (Arm, PowerPC)",
+        "Multicore CPUS",
+        "Software design & architecture",
+        "Functional verification",
+        "Linux",
+        "Tensorflow (1.x & 2.x)",
+        "Pandas",
+        "Git",
+        "Deep Learning"
+      ]
+    }
+  ]
+}
