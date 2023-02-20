@@ -1,12 +1,12 @@
 {
   "basics": {
-    "label": "SDET Architect",
+    "label": "Software Engineer",
     "website": "http://vikaschouhan.com",
     "phone": "+91-9611663497",
     "email": "presentisgood@gmail.com",
     "other": [],
     "name": "Vikas Chouhan",
-    "summary": "I am a test architect with ~15 years of experience in post silicon validation, Software QA and developing test automation frameworks and supporting infrastructure to shorten validation life cycles. I devoted some 2+ years in between to run an AI based healthcare startup which helped me to dive in application side AI/ML.",
+    "summary": "I am a software architect with ~15 years of experience in embedded and AI software, developing tests and architecting software frameworks to shorten development life cycles. I devoted some 2+ years in between to run an AI based healthcare startup which helped me to dive in application side AI/ML.",
     "picture": "",
     "location": {
       "city": "Bangalore",
@@ -33,9 +33,9 @@
       "startDate": "2020-11",
       "summary": "Software QA Engineer for Intel Pytorch team.",
       "highlights": [
-        "QA activities for Intel Pytorch team enabling various training and inference workloads on their dedicated AI accelerator.",
-	"Developed and architected a unique pytest based test framework for scaling test methodologies across huge number and variety of models.",
-	"Automated multiple aspects of test development, launch and debug process."
+        "Test and benchmarking activities for Intel Pytorch team enabling various workloads on their dedicated AI accelerator for performance and stability.",
+	"Developed a new test framework in python for quickly scaling across sheer number and variety of models from customers. This led to >50% reduction in test development time to enable new models.",
+	"Automated multiple aspects of test development. One such tool led to >90% efficiency in local docker based test environment deployment."
       ]
     },
     {
@@ -74,8 +74,8 @@
       "summary": "Software developer and post silicon validation engineer.",
       "highlights": [
         "Developed validation tests in C & assembly for hunting various hardware issues in multicore processors, helping our team to catch serious silicon issues in time.",
-        "Developed & architected a software automation tool in C/C++ and Python for writing and generating algorithmic tests for multicore ARM processors. This helped us to port a lot of our PowerPC based tests to ARM based SOCs in a very time constrained window.",
-        "Developed validation tests to target cache coherency, memory consistency, multiple threads and shared execution units (SMT processors) along with few other IPs like interconnect, IOMMU etc.",
+        "Developed & architected a software automation tool in C/C++ and Python for writing and generating algorithmic tests for multicore ARM processors. This helped us to port a lot of our PowerPC based tests to ARM based SOCs in <6 months.",
+        "Developed validation tests to target cache coherency, memory consistency, multiple threads and shared execution units (SMT processors) along with few other IPs like interconnect, IOMMU etc which helped uncover & reproduce multiple hardware bugs.",
         "Developed proficiency at low level hardware debugging via JTAG/PEX, bare-metal OS/kernel development/deployment & software modelling of CPU/SOC components.",
         "Worked on embedded micro kernels & board support packages."
       ]
@@ -157,9 +157,13 @@
         "Functional verification",
         "Linux",
         "Tensorflow (1.x & 2.x)",
+	"Pytorch",
         "Pandas",
         "Git",
-        "Deep Learning"
+	"Pytest",
+        "Deep Learning",
+	"CI/CD",
+	"Jenkins"
       ]
     }
   ]
