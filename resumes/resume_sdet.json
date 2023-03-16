@@ -33,9 +33,10 @@
       "startDate": "2020-11",
       "summary": "Software QA Engineer for Intel Pytorch team.",
       "highlights": [
-        "Test and benchmarking activities for Intel Pytorch team enabling various workloads on their dedicated AI accelerator for performance and stability.",
-	"Developed a new test framework in python for quickly scaling across sheer number and variety of models from customers. This led to >50% reduction in test development time to enable new models.",
-	"Automated multiple aspects of test development. One such tool led to >90% efficiency in local docker based test environment deployment."
+        "Test and benchmarking activities for Intel Pytorch team enabling various workloads on their dedicated AI accelerator.",
+	"Architected a test framework in python/pytest for quickly scaling across sheer number and variety of model requirements from customers. This led to >50% reduction in test development time to enable new models.",
+	"Automated multiple aspects of test development. One such tool led to manifold increase in efficiency for local docker based test environment deployment.",
+	"Gained understanding of Pytorch SynapseAI(Low level compiler) bridge architecture."
       ]
     },
     {
@@ -157,7 +158,8 @@
         "Functional verification",
         "Linux",
         "Tensorflow (1.x & 2.x)",
-	"Pytorch",
+	"Pytorch (1.x & 2.x)",
+	"OpenCV",
         "Pandas",
         "Git",
 	"Pytest",
