@@ -1,0 +1,197 @@
+{
+  "basics": {
+    "label": "Embedded Software/Validation Engineer",
+    "website": "http://vikaschouhan.com",
+    "phone": "+91-9611663497",
+    "email": "presentisgood@gmail.com",
+    "other": [],
+    "name": "Vikas Chouhan",
+    "summary": "Experienced software architect with 17+ years in embedded systems, silicon validation, and AI. Expertise in bare-metal validation, multi-core test frameworks, cache coherency and electrical validation. Developed automation tools for ARM processors, debugged silicon issues, and optimized AI workloads. Strong background in low-level hardware debugging, OS/kernel development and AI model testing.",
+    "picture": "",
+    "location": {
+      "city": "Bangalore",
+      "countryCode": "IN"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "vikaschouhan",
+        "url": "https://github.com/vikaschouhan"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "vikas-chouhan-4a36829",
+        "url": "https://www.linkedin.com/in/vikas-chouhan-4a36829"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Arm Embedded Technologies India Pvt Ltd",
+      "website": "https://www.arm.com",
+      "position": "System Validation Engineer",
+      "startDate": "2023-06",
+      "summary": "Pre & Post-Si validation of multiple internal SOCs.",
+      "highlights": [
+        "Owning Display subsystem validation for an internal mobile test-chip.",
+	"Gained understanding of Linux kernel device drivers and drm infrastructure for test development using user space libdrm library as part of display subsystem validation.",
+        "Worked on porting a suite of display tests exercising various display modes & capabilities of the Display Processing Unit for an internal test chip.",
+	"Worked on integrating MIPI DSI2 drivers from third party vendor into the Linux kernel.",
+        "Investigations into Camera subsystem architecture for an internal mobile test-chip and corresponding Linux kernel subsystem (v4l2).",
+        "Leading the Compute Subsystem Pre/Post-si team and validation plans for an internal Infra chip designed around Neoverse CSS & CMN.",
+	"Gained understanding of CMN architecture & Armv9 based App cores. Driving the team to own pre & post-si validation of multiple components within the CSS (Compute Sub-System) at a system level."
+      ]
+    },
+    {
+      "company": "Intel Technology India Pvt Ltd",
+      "website": "https://www.intel.com",
+      "position": "AI Software Solutions Engineer",
+      "startDate": "2020-11",
+      "endDate": "2023-05",
+      "summary": "Software QA Engineer for Intel Pytorch team.",
+      "highlights": [
+        "Test and benchmarking activities for Intel Pytorch team enabling various workloads on their dedicated AI accelerator.",
+	"Architected a test framework in python/pytest for quickly scaling across sheer number and variety of model requirements from customers. This led to >50% reduction in test development time to enable new models.",
+	"Automated multiple aspects of test development. One such tool led to manifold increase in efficiency for local docker based test environment deployment.",
+	"Worked on multiple vision & nlp based topology variants like Unet, Resnet, Bert, SSD etc. Also worked for some time on Pytorch Unit Tests.",
+	"Developed architecture tests for tensor comparison across predefined layers of a typical neural network design (side by side tests).",
+	"Worked on performance tests comparing topologies (or individual layers) running in various execution modes (eager, graph, lazy etc.) supported by Pytorch.",
+	"Validating various low level bridge features/bug-fixes wrt to their effect on training's stability & performance.",
+	"Gained understanding of Pytorch SynapseAI(Low level compiler) bridge architecture."
+      ]
+    },
+    {
+      "company": "Nurithm Labs Pvt Ltd",
+      "website": "https://nurithmlabs.tech",
+      "position": "Engineering Cofounder",
+      "startDate": "2018-04",
+      "endDate": "2020-10",
+      "summary": "Driving engineering R&D for our healthcare startup.",
+      "highlights": [
+        "Successfully developed and deployed an AI system for detecting 50 skin disease conditions with an overall accuracy of >80%.",
+        "Enhanced our private image dataset with images available from various public sources on the web. This was open sourced as a Github project.",
+        "Read & implemented algorithms in various research papers which were not yet available in standard ML packages. One algorithm called OpenMax helped to improve our model's open set diagnostic sensitivity by ~10%.",
+        "Ran lots of experiments with visualization algorithms, loss functions, augmentations etc to optimize our AI models, improving our model's performance by ~6-8%.",
+        "Most of the work has been done remotely, collaborating over skype and zoom calls."
+      ]
+    },
+    {
+      "company": "Arm Embedded Technologies Pvt Ltd",
+      "website": "https://www.arm.com/",
+      "position": "Staff Engineer",
+      "startDate": "2017-05",
+      "endDate": "2018-03",
+      "summary": "Handling technical queries and issues from ARM Licensee partners.",
+      "highlights": [
+          "Resolving technical queries and issues for ARM partners on a dedicated basis, increasing team's efficiency in dealing with issue resolution rate.",
+          "Developed a very solid understanding of Armv8-A architecture profile in this process."
+      ]
+    },
+    {
+      "company": "NXP India Pvt Ltd (Formerly Freescale Semiconductor India Pvt Ltd)",
+      "website": "https://www.nxp.com/",
+      "position": "Senior Design Engineer",
+      "startDate": "2011-07",
+      "endDate": "2017-04",
+      "summary": "Software developer and post silicon validation engineer.",
+      "highlights": [
+        "Developed bare-metal validation tests in C & assembly, targetting microprocessor core & L1/L2 caches across multiple SOCs, helping team to catch serious silicon issues in time.",
+        "Electrical validation for hitting worst case Fmax enabling us to stress the memory subsystem under non-nominal physical conditions.",
+	"Multi-core test framework development for targetting cache coherency and memory consistency, helping uncover few coherency releated issues.",
+        "Developed & architected a software automation tool in C/C++ and Python for writing and generating algorithmic tests for multicore ARM processors. This enabled us to develop powerful algorithmic tests using targetted assembly instructions in python helping to port a lot of our legacy PowerPC based tests to ARM based SOCs in <6 months.",
+	"Validating shared resources (execution units/L1-dcaches  etc) inside an SMT microprocessor. Reproduced and found few silicon issues using the same.",
+        "Developed proficiency at low level hardware debugging via JTAG/PEX, bare-metal OS/kernel development/deployment & software modelling of CPU/SOC components.",
+	"Worked on high level C tests based on freertos kernel.",
+	"Familiarity with DSP & babseband pheriphrals having worked on developing software tests for the same."
+      ]
+    },
+    {
+      "company": "NXP India Pvt Ltd (Formerly Freescale Semiconductor India Pvt Ltd)",
+      "website": "https://www.nxp.com/",
+      "position": "Design Engineer",
+      "startDate": "2008-07",
+      "endDate": "2011-06",
+      "summary": "Working as backend tools developer.",
+      "highlights": [
+        "Worked on enhancing internal validation tools & fixing bugs and issues.",
+        "Ported them from SunOS to Linux helping our team move from old legacy Sun systems to newer & cheaper Linux systems.",
+	"Simics platform integration for dynamic expects generation."
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Patent",
+      "publisher": "USPTO",
+      "releaseDate": "2014-02-03",
+      "website": "https://patents.google.com/patent/US20150221396",
+      "summary": "Method of testing coherency of data storage in multi-processor shared memory system."
+    },
+    {
+      "name": "Publication",
+      "publisher": "USPTO",
+      "releaseDate": "2014-04-27",
+      "website": "https://patents.google.com/patent/US20150309847A1",
+      "summary": "Testing operation of multi-threaded processor having shared resources."
+    },
+    {
+      "name": "Publication",
+      "publisher": "IP.COM",
+      "releaseDate": "2014-07-31",
+      "website": "https://priorart.ip.com/IPCOM/000238081",
+      "summary": "Automated Electrical Validation of Microprocessor and Shared Memory Subsystem."
+    },
+    {
+      "name": "Publication",
+      "publisher": "IP.COM",
+      "releaseDate": "2015-04-03",
+      "website": "https://priorart.ip.com/IPCOM/000241210",
+      "summary": "Method for testing shared caches/TLB Intervention."
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Roorkee",
+      "gpa": "7.5",
+      "studyType": "B.E.",
+      "area": "Electrical Engineering",
+      "courses": [
+        "Electric Machines",
+        "Microprocessors/Embedded systems",
+        "Digital Signal and Image Processing",
+        "Data structures"
+      ],
+      "startDate": "2004-06",
+      "endDate": "2008-06"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software and Hardware",
+      "level": "advanced",
+      "keywords": [
+        "Python",
+        "C/C++",
+        "Perl",
+        "Bash scripting",
+	"Automation",
+	"Docker",
+	"Object oriented design",
+        "Assembly (Arm, PowerPC)",
+        "Multicore CPUS",
+        "Software design & architecture",
+        "Functional verification",
+        "Linux",
+        "Tensorflow (1.x & 2.x)",
+	"Pytorch (1.x & 2.x)",
+	"OpenCV",
+        "Pandas",
+        "Git",
+	"Pytest",
+        "Deep Learning",
+	"CI/CD",
+	"Jenkins"
+      ]
+    }
+  ]
+}
